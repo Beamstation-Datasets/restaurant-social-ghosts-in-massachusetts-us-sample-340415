@@ -1,6 +1,6 @@
 # Restaurant Social Ghosts in Massachusetts, US
 
-> Free BeamStation sample export with 18 rows and masked direct-contact fields.
+> Free BeamStation sample export with 7 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `340415` |
 | Location | Massachusetts |
 | Category | Restaurants |
-| Full dataset size | 188 records |
-| Free sample size | 18 records (9.57%) |
-| Last export | 2026-04-15T10:59:09.239338+00:00 |
+| Full dataset size | 75 records |
+| Free sample size | 7 records (9.33%) |
+| Last export | 2026-04-22T19:03:47.113518+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-massachusetts-us-sample-340415/releases/download/sample-latest/beamstation_340415_restaurants-us-ma_SAMPLE_DIST.csv) |
 
 ## What is in this sample
