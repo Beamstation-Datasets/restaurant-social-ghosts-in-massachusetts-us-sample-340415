@@ -1,12 +1,12 @@
 {
-  "export_job_id": "920f127a-055c-4e6e-95c0-9478698680e6",
+  "export_job_id": "f467eeae-03d8-411e-8757-1093fc280233",
   "id_short": 340415,
-  "published_at": "2026-04-23T07:32:03Z",
+  "published_at": "2026-04-30T07:44:17Z",
   "repo_name": "restaurant-social-ghosts-in-massachusetts-us-sample-340415",
   "sample_asset_name": "beamstation_340415_restaurants-us-ma_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/340415/beamstation_340415_restaurants-us-ma_SAMPLE_DIST.csv",
   "sample_records": 7,
-  "sample_sha256": "d0626bf31b014f08f5b44f81772ee065add473de6600d4e0970b10ee33b601f6",
-  "sample_size_bytes": 41788,
-  "total_records": 75
+  "sample_sha256": "eeed4dbd2365f21555a010ba2509c55138013a4dd9f561c2eff1584aea7d984b",
+  "sample_size_bytes": 42408,
+  "total_records": 76
 }
